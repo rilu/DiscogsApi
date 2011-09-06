@@ -1,5 +1,4 @@
-using Discogs.Api;
-using Discogs.Core.Api;
+using Discogs.Core.Dto;
 
 namespace Discogs.Core.Interfaces
 {

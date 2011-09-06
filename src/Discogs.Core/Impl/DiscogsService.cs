@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Text;
-using Discogs.Core.Api;
+using Discogs.Core.Dto;
 using Discogs.Core.Interfaces;
 using RestSharp;
 using RestSharp.Deserializers;

@@ -1,8 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Runtime.Serialization;
-using Discogs.Core.Api;
-using Version = Discogs.Core.Api.Version;
+using Version = Discogs.Core.Dto.Version;
 
 namespace Discogs.Core.Dto
 {

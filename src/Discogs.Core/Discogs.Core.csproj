@@ -44,21 +44,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Api\Artist.cs" />
-    <Compile Include="Api\ExactResult.cs" />
-    <Compile Include="Api\ExtraArtist.cs" />
-    <Compile Include="Api\Format.cs" />
-    <Compile Include="Api\Image.cs" />
-    <Compile Include="Api\Label.cs" />
-    <Compile Include="Api\Master.cs" />
-    <Compile Include="Api\Release.cs" />
-    <Compile Include="Api\Resp.cs" />
-    <Compile Include="Api\Result.cs" />
-    <Compile Include="Api\Search.cs" />
-    <Compile Include="Api\Searchresults.cs" />
-    <Compile Include="Api\TrackList.cs" />
-    <Compile Include="Api\Version.cs" />
-    <Compile Include="Api\Video.cs" />
+    <Compile Include="Dto\Artist.cs" />
+    <Compile Include="Dto\ExactResult.cs" />
+    <Compile Include="Dto\ExtraArtist.cs" />
+    <Compile Include="Dto\Format.cs" />
+    <Compile Include="Dto\Image.cs" />
+    <Compile Include="Dto\Label.cs" />
+    <Compile Include="Dto\Master.cs" />
+    <Compile Include="Dto\Release.cs" />
+    <Compile Include="Dto\Resp.cs" />
+    <Compile Include="Dto\Result.cs" />
+    <Compile Include="Dto\Search.cs" />
+    <Compile Include="Dto\Searchresults.cs" />
+    <Compile Include="Dto\TrackList.cs" />
+    <Compile Include="Dto\Version.cs" />
+    <Compile Include="Dto\Video.cs" />
     <Compile Include="Enumerations.cs" />
     <Compile Include="Impl\DiscogsService.cs" />
     <Compile Include="Impl\DiscogsSettings.cs" />
