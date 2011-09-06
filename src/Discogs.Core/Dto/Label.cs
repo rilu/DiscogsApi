@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Runtime.Serialization;
+using Discogs.Core.Api;
 
-namespace Discogs.Core.Api
+namespace Discogs.Core.Dto
 {
     [Serializable]
     [DataContract(Name = "label")]

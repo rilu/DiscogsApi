@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace Discogs.Core.Api
+namespace Discogs.Core.Dto
 {
     [Serializable]
     [DataContract(Name = "exactresult")]

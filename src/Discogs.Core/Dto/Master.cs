@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Runtime.Serialization;
-using Discogs.Api;
+using Discogs.Core.Api;
 using Version = Discogs.Core.Api.Version;
 
-namespace Discogs.Core.Api
+namespace Discogs.Core.Dto
 {
     [Serializable]
     [DataContract(Name = "master")]
